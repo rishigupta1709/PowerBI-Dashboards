@@ -1,0 +1,1 @@
+Here we need to document all requirement to create a new sales dashboard
